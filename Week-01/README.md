@@ -10,6 +10,4 @@ Task 02 — IPv4 Addressing, Subnetting, and VLSM
 
 Task 03 — Cisco IOS CLI, Interfaces, and Recovery
 
-Task 04 — VLANs and Access Ports
-
 Each task folder will contain practical configurations, documentation, Packet Tracer files, and screenshots
