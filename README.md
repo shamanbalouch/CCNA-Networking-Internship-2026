@@ -1,4 +1,9 @@
-CCNA Networking Internship 2026
+Internship Status: In Progress
+
+Note:""I am currently completing the TechBiz Academy CCNA Networking Internship. This repository is being updated regularly as I complete each assigned task. The completed projects and documentation will be added throughout the internship
+
+CCNA Networking Internship 2026""
+
 
 About This Repository
 
